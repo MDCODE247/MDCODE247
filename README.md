@@ -2,8 +2,6 @@
  💻 HTML, CSS and JavaScript 
  ⚛️ React and Nodejs
  📱React Native 
- 🐍 python. 
- CONTACT ME ON:
- ✉️ ammedabubakard500@gmail.com
+ 🐍 python.
  
  ⚡ A little Fun fact about me: I'm scared of moving water!!! lol. 
